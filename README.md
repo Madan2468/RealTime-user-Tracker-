@@ -1,5 +1,6 @@
 
 
+
 # Real-Time Map with Usernames
 
 This project is a real-time map application built using **React**, **Node.js**, **Express**, **Socket.IO**, and **OpenStreetMap**. It allows users to visualize their locations on a map in real-time, along with their usernames, offering a dynamic and interactive experience.
